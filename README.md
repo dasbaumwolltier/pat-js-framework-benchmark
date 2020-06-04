@@ -1,3 +1,5 @@
+This code was taken from [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
+
 [![CircleCI](https://circleci.com/gh/krausest/js-framework-benchmark.svg?style=svg)](https://circleci.com/gh/krausest/js-framework-benchmark)
 
 # js-framework-benchmark
